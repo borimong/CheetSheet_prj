@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+  }
+  .Table-Tags h2 {
+    text-align: center;
+    color: purple;
+  }
+  .Table-Attributes h2 {
+    text-align: center;
+    color: purple;
+  }
+  thead {
+    text-align: center;
+    font-weight: bold;
+    background-color: lightpink;
+  }
+  table {
+    text-align: center;
+  }
+  body {
+    background-color: #FAEBD7
+  }
+  .tag {
+    background-color: white;
+    font-family: monospace;
+  }
+  
